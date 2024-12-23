@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @godwinlagutao
+- 👋 Hi, My name is Godwin Nkanta
 - 👀 I’m interested in Django and Python Programming
 - 🌱 I’m currently learning React JS and UI/UX
 - 💞️ I’m looking to collaborate on Web development projects
