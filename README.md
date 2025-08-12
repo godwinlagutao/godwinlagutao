@@ -1,6 +1,5 @@
 - 👋 Hi, My name is Godwin Nkanta
-- 👀 I’m interested in Django and Python Programming
-- 🌱 I’m currently learning React JS and UI/UX
+- 👀 I’m interested in Django Python Programming in addition to MERN stack.
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me: email at @generationsecond2020@gmail.com
 - 😄 Pronouns: he/him
