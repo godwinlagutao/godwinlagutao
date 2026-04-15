@@ -1,14 +1,7 @@
-## 👋 I build custom internal operations systems
+## Django + ReactJS Specialist
 
-Django + React developer specializing in replacing spreadsheets with custom web applications for growing companies.
-
-**What I build:**
-- 📊 Operations dashboards for real-time visibility
-- 🔄 Workflow automation for manual processes
-- 📈 Entity tracking systems (students, products, inventory, employees)
-- 📑 Automated reporting and document generation
-
-**Recent project:** Academic Management System - replaced manual student tracking across departments with automated GPA calculation and transcript generation.
+Building apps and sites while documenting my mistakes.
+Love the process!
 
 📫 Reach me: generationsecond2020@gmail.com
 <!---
